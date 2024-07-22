@@ -1,4 +1,4 @@
-![edge]()
+![edge](https://github.com/YatishBorase/YatishBorase/blob/main/Add%20a%20subheading%20(1).png)
 <h1 align="center">Hi 👋, I'm Yatish Borase</h1>
 <h3 align="center">A passionate AIML Engineer from India</h3>
 
@@ -7,9 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatishborase&label=Profile%20views&color=0e75b6&style=flat" alt="yatishborase" /> </p>
 
+
 - 📫 How to reach me **yatishborase99@gmail.com**
 
-- ⚡ Fun fact **I am Funny😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
